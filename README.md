@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirs0b
+- 👋 Hi, I’m amirsobhani
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python,SQL,...
 - 💞️ I’m looking to collaborate on python 
